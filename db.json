@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "category": 1,
+      "name": "PEPSI",
+      "price": 15,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/OIP.kVPwADfOwws8fF1T11Zj4AHaMs?w=115&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "name": "TEA",
+      "price": 35,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/R.c2790d580fb4aadaebbcbcb052b80279?rik=HEsEe2qh8KqQMQ&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "name": "COFFEE",
+      "price": 20,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/R.c9c2231b177b8d3e77e73ed2b9851f40?rik=6RbzBOVSQ7riBg&riu=http%3a%2f%2fimages.unsplash.com%2fphoto-1587734361993-0033759da68b%3fixlib%3drb-1.2.1%26q%3d80%26fm%3djpg%26crop%3dentropy%26cs%3dtinysrgb%26w%3d1080%26fit%3dmax%26ixid%3deyJhcHBfaWQiOjEyMDd9&ehk=UrIdRJZ2vgutKEw99S8oMB4yhGC9rr5ZEhBGznx7xMA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 6,
+      "category": 2,
+      "name": "ESPRESSO",
+      "price": 18,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/R.3c67e53d682589dcb8ce02dd3ac1e20c?rik=LeUqj%2bnBd3%2f0WA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f11%2f17%2f239445-coffee-coffee_beans-cup.jpg&ehk=%2bEd%2bhMjaHGMrExklwM9MNbALfkaDNqvDmS67gs%2bf2OA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 7,
+      "category": 3,
+      "name": "ORANGE",
+      "price": 23,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/R.a0d6c79b4984d63502c43c69dcee7d54?rik=1593S1Gz7fsOBw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 8,
+      "category": 3,
+      "name": "BANANA",
+      "price": 40,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/OIP.Y0wJ-9AnLS0AL-xlhUBEEAHaIV?w=159&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+      "id": 9,
+      "category": 3,
+      "name": "APPLE",
+      "price": 25,
+      "count": 0,
+      "isEmpty": false,
+      "img": "https://th.bing.com/th/id/R.f792412cc5d6c0030b7caa146762f884?rik=kf2DjATezJdwIQ&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Avocado",
+      "price": 60,
+      "category": 3,
+      "count": 0,
+      "isEmpty": false,
+      "id": 10,
+      "img": "https://th.bing.com/th/id/OIP.bpLg2FBBelpql8cxG42Z-QHaE7?w=303&h=202&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+      "name": "COLA",
+      "price": 10,
+      "category": 1,
+      "count": 0,
+      "isEmpty": false,
+      "id": 11,
+      "img": "https://www.rd.com/wp-content/uploads/2018/02/The-Real-Reason-the-Coca-Cola-Logo-is-Red_570538087_tok-anas.jpg"
+    },
+    {
+      "name": "FANTA",
+      "price": 38,
+      "category": 1,
+      "count": 0,
+      "isEmpty": false,
+      "id": 12,
+      "img": "https://th.bing.com/th/id/OIP.UcM4j_yAMnzsPevnzIequgHaFj?w=268&h=201&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "ALL"
+    },
+    {
+      "id": 1,
+      "name": "SODA"
+    },
+    {
+      "id": 2,
+      "name": "HOT DRINK"
+    },
+    {
+      "id": 3,
+      "name": "JUICE"
+    }
+  ]
+}
